@@ -71,117 +71,115 @@ export const situationCategories: SituationCategory[] = [
 ];
 
 export const CONTEXTE_CRISE = `\
-Mise à jour : 8 mai 2026. Depuis le 28 février, les États-Unis et \
-Israël sont en guerre ouverte avec l'Iran et ses alliés (Hezbollah, \
-Houthis, milices irakiennes PMF). L'opération américano-israélienne \
-« Epic Fury » a déclenché le conflit en frappant les sites \
-militaires, nucléaires et gouvernementaux iraniens. Le Guide suprême \
-Ali Khamenei a été tué dans les premières frappes ; son fils Mojtaba \
-Khamenei lui a succédé. Téhéran a riposté par des centaines de \
+Mise à jour : 19 mai 2026. Depuis le 28 février, les États-Unis et \
+Israël ont mené une guerre ouverte contre l'Iran et ses alliés \
+(Hezbollah, Houthis, milices irakiennes PMF). La campagne \
+américano-israélienne « Operation Epic Fury » s'est officiellement \
+achevée le 5 mai après deux mois et environ 25 milliards $ de coûts \
+américains. La guerre a commencé par ~900 frappes coordonnées en \
+12 heures contre des sites militaires, nucléaires et \
+gouvernementaux iraniens. Le Guide suprême Ali Khamenei a été tué dans \
+les premières frappes ; son fils Mojtaba Khamenei — jugé plus dur et \
+plus répressif — lui a succédé. Téhéran a riposté par des centaines de \
 missiles et drones sur Israël, les bases américaines et les États du \
-Golfe — mais a perdu l'essentiel de son arsenal conventionnel, de sa \
+Golfe, mais a perdu l'essentiel de son arsenal conventionnel, de sa \
 défense aérienne et de ses capacités nucléaires.
 
-Cessez-le-feu fragile depuis le 8 avril, prolongé plusieurs fois, \
-toujours accroché — mais cette semaine il s'est gravement fragilisé. \
-Dans la nuit du 7 au 8 mai, trois destroyers américains ont essuyé \
-des tirs iraniens en traversant le détroit d'Hormuz : 110 minutes de \
-combat naval. Les États-Unis ont riposté en frappant des installations \
-militaires iraniennes (sites de lancement de missiles et drones, \
-Bandar Abbas, île de Qeshm). Trump qualifie l'incident de « broutille » \
-mais menace de représailles « violentes » sur Truth Social si Téhéran \
-ne signe pas « rapidement ». L'Iran parle de « violation flagrante » \
-du cessez-le-feu (porte-parole Esmaïl Baghaï).
+Cessez-le-feu depuis le 7-8 avril, prolongé par Trump le 21 avril \
+(« jusqu'à la conclusion des négociations »). Le 2 mai, Téhéran a \
+rejeté une proposition de paix américaine (CNN) ; le 4 mai, Trump a \
+lancé « Operation Project Freedom » — escorte des navires marchands \
+dans le détroit d'Hormuz — et l'a suspendue dès le 5-6 mai, invoquant \
+« de grands progrès » et la médiation pakistanaise. Les deux camps \
+négocient actuellement un mémorandum d'une page : fin du conflit \
+plus phase de 30 jours pour traiter les demandes nucléaires, le \
+dégel des avoirs iraniens et la sécurité dans le détroit. Phase ni \
+gagnée ni rompue. Bilan total du conflit (Iran, Liban, Israël, États \
+du Golfe) : plusieurs milliers de morts, millions de déplacés.
 
-Négociations en cours via le Pakistan. Washington exige : démontage \
-complet des sites nucléaires iraniens centraux, interdiction \
-d'enrichissement pendant 20 ans, ouverture du détroit d'Hormuz, \
-aucune arme atomique. Téhéran exige : droit à l'enrichissement et \
-souveraineté sur la voie maritime. Trump dit qu'un accord est \
-« possible dans les jours qui viennent ». Phase qualifiée de \
-« pré-négociations » : ni acquise, ni rompue. Pertes totales du \
-conflit (Iran, Liban, Israël, États du Golfe) : plusieurs milliers de \
-morts, millions de déplacés.
+Détroit d'Hormuz — effectivement fermé depuis ~12 semaines. L'Iran a \
+officiellement déclaré le détroit ouvert (Ministre Araghchi, \
+17 avril) ; en pratique presque personne ne passe. Renseignement \
+américain : l'Iran a posé plus de 20 mines dans et autour du détroit \
+— Téhéran a lui-même perdu la trace de leurs positions et ne peut pas \
+rouvrir le passage même s'il le voulait (NYT). Le 11 mai, plus de \
+600 pétroliers sont bloqués à l'intérieur du Golfe persique, 240+ \
+attendent à l'extérieur (PDG de Saudi Aramco). Malgré les \
+négociations, l'escalade continue : les 13-14 mai, l'Iran a saisi le \
+cargo « Haji Ali » (pavillon indien, coulé) et le navire de recherche \
+« Hui Chuan ». Le blocus naval américain contre les ports iraniens \
+tient ; plusieurs pétroliers iraniens (« Dorena », « Sevin », \
+« Derya ») ont été interceptés dans le monde.
 
-Détroit d'Hormuz — bloqué depuis ~10 semaines. Habituellement 20 à \
-25 % du commerce mondial de pétrole et de GNL transite par là. L'Iran \
-a créé sa propre autorité de contrôle imposant permis de transit et \
-péages obligatoires (Lloyd's List). Marco Rubio juge cela \
-« inacceptable » — « ils prétendent posséder une voie navigable \
-internationale ». La France a pris le « lead » de la coalition navale \
-multinationale ; le porte-avions Charles de Gaulle se dirige vers le \
-sud de la mer Rouge, près du détroit. Les États-Unis maintiennent un \
-blocus naval des ports iraniens — le 8 mai seul, plus de 70 tankers \
-ont été stoppés (166 millions de barils, ~13 milliards $). Un avion \
-américain a neutralisé deux pétroliers iraniens en tirant dans leurs \
-cheminées. L'Iran a saisi le pétrolier « Ocean Koi » (pavillon \
-Barbados, sous sanctions US) ; 11 marins pakistanais et 20 iraniens \
-sont retenus à bord de navires saisis par les États-Unis. Les Émirats \
-arabes unis ont essuyé des vagues de missiles balistiques et drones \
-iraniens cette semaine — 3 blessés. Une marée noire de ~45 km² \
-apparaît près de l'île iranienne de Kharg sur images satellite \
-Copernicus (6-8 mai).
+Coalition de déminage. Le 12 mai, le Royaume-Uni et la France ont \
+réuni les ministres de la Défense de 38 nations et annoncé une \
+mission militaire multinationale indépendante pour rouvrir le \
+détroit. L'Italie envoie quatre navires (deux chasseurs de mines, un \
+escorteur, un logistique) au départ de La Spezia, ~4 semaines de \
+transit — arrivée fin mai. Le Royaume-Uni, la France, la Belgique et \
+les Pays-Bas ont promis des navires ; l'Allemagne se tient prête mais \
+exige un mandat ONU et un vote du Bundestag. Estimation du Pentagone : \
+6 mois de déminage — l'Italie et d'autres pensent qu'il faudra bien \
+plus ; référence 1991 : 2 ans pour 1 300 mines irakiennes.
 
-Mines — le verrou physique tient. Minage chaotique : l'Iran lui-même \
-ne sait plus où se trouvent toutes ses mines (NYT) ; mines dérivantes. \
-Stock estimé : 5 000 à 6 000 ; 5 % suffisent à bloquer le passage des \
-mois. Référence 1991 : 2 ans pour 1 300 mines irakiennes. L'Italie \
-(Tajani) propose sa marine pour le déminage sous condition de \
-cessez-le-feu durable ; l'Allemagne attend mandat ONU et vote du \
-Bundestag. Premier transit notable hors période de tirs : un seul \
-pétrolier (« Odessa », pavillon maltais, 1 million de barils) a \
-atteint la Corée du Sud le 8 mai après avoir franchi Hormuz le \
-17 avril, pendant une brève accalmie.
+Front Liban — la guerre Hezbollah-Israël s'est déroulée en parallèle. \
+Frappes israéliennes intensives sur le sud-Liban ; 152+ attaques sur \
+structures de santé depuis le 2 mars (selon l'OMS). Plus de 3 \
+millions de Libanais dépendent de l'aide humanitaire — plus de la \
+moitié de la population.
 
-Front Liban — guerre Hezbollah-Israël en parallèle. Frappes \
-israéliennes intensives sur le sud-Liban : 12 morts hier, 152 attaques \
-sur structures de santé depuis le 2 mars (103 morts, 241 blessés selon \
-l'OMS). Plus de 3 millions de Libanais dépendent de l'aide humanitaire \
-— plus de la moitié de la population. Discussions Liban-Israël prévues \
-les 14-15 mai à Washington.
-
-Pétrole. Brent autour de 100 $/baril (101,71 $ vendredi matin, \
-+1,65 %), pic à 103 $ après les frappes. Avant guerre : 70 $. WTI : \
-96 $. Le ministère américain de la Justice enquête sur 2,6 milliards \
-$ de paris sur la baisse du pétrole effectués peu avant des annonces \
-de Trump pendant le conflit (ABC, NBC) — soupçon de délit d'initié.
+Pétrole. Brent ~ 102 $/baril le 18 mai, sommet de séance au-dessus de \
+111 $ ; pic de mars à 126 $ (Dubai 166 $). Avant la guerre : 70 $. \
+L'AIE qualifie la situation de « plus grande perturbation \
+d'approvisionnement de l'histoire du marché pétrolier mondial ». Le \
+ministère américain de la Justice enquête sur 2,6 milliards $ de \
+paris sur la baisse du pétrole effectués peu avant des annonces de \
+Trump pendant le conflit (ABC, NBC) — soupçon de délit d'initié.
 
 Diesel et carburants. La France importe normalement 30 à 40 % de son \
-diesel du Moyen-Orient. Les prix tiennent grâce au cessez-le-feu mais \
-resteraient explosifs en cas de rupture franche. Les stocks \
-stratégiques ne seront probablement pas libérés — réservés aux \
-services publics.
+diesel du Moyen-Orient. La Slovénie a été le premier pays UE à \
+imposer un rationnement formel le 23 mars (50 L/jour particuliers, \
+200 L/jour entreprises). En France, 18 % des stations étaient à sec \
+au 12 avril ; l'Italie a un rationnement kérosène dans sept aéroports \
+depuis le 12 avril. L'Allemagne a baissé les taxes sur l'essence et \
+le diesel pour deux mois le 13 avril. Au Royaume-Uni, le ministre de \
+l'Énergie a écarté un rationnement formel le 6 mai — les pénuries \
+physiques continuent malgré tout. Goldman Sachs : réserves danoises \
+tombées de 47 jours à près de zéro, Royaume-Uni de 33 jours à près de \
+zéro.
 
-Gaz. L'UE a augmenté ses importations de GNL russe de 17,2 % au \
-premier trimestre 2026 (Yamal) malgré l'objectif d'arrêt fin 2027. \
-Mix d'importation : USA 60 %, Russie 17 %, Nigeria et Qatar 6 % \
-chacun. Avant guerre, Hormuz acheminait ~20 % du commerce mondial de \
-GNL — flux interrompu. Les installations qatariennes de Ras Laffan \
-sont endommagées (réparation 3-5 ans, 3 fabricants de turbines au \
-monde, carnets pleins).
+Gaz. Les importations européennes de GNL russe (Yamal) ont atteint \
+un record de ~3 milliards £ entre janvier et avril 2026. Le \
+benchmark néerlandais TTF a culminé au-dessus de 60 €/MWh à \
+mi-mars, redescendu à ~48 €/MWh. Stocks de gaz européens à ~30 % \
+après l'hiver rude 2025/26. Les installations qatariennes de Ras \
+Laffan sont endommagées : 3-5 ans de réparation (3 fabricants de \
+turbines au monde, carnets pleins).
 
-Kérosène. L'AESA (sécurité aérienne UE) a autorisé en urgence le \
-carburant Jet A américain pour combler la pénurie. Côté français, le \
-ministre des Transports Philippe Tabarot assure qu'il n'y aura « pas \
-d'annulations massives cet été » : Volotea 1 %, Transavia 2 %, Air \
-France respecte ses plans de vol — les compagnies font 70 % de leur \
-chiffre entre juillet et août, incitation forte à tenir. Mais le \
-kérosène a augmenté d'environ 50 % depuis le début du conflit ; IAG \
-(maison-mère British Airways) prévoit 9 milliards € de coûts de \
-carburant en 2026 (+2 milliards € vs 2025). Bruxelles oblige les \
-compagnies à indemniser les annulations (250 à 600 € + hôtel + \
-remboursement). Volotea modifie ses prix après vente — Bercy parle \
-d'illégalité.
+Kérosène. L'Europe a perdu 20-30 % de ses importations de kérosène \
+du Golfe persique ; exportations mondiales de kérosène en baisse de \
+30-50 %. L'Europe ne peut produire au maximum que 70 % de ses propres \
+besoins (décennies de fermetures de raffineries). Lufthansa, easyJet \
+et KLM suppriment des vols ; selon Fortune, les stocks européens de \
+kérosène passeront en juin sous le seuil critique des 23 jours. \
+L'autorisation d'urgence de l'AESA pour le Jet A américain reste en \
+vigueur. IAG (maison-mère British Airways) prévoit 9 milliards € de \
+coûts carburant en 2026 (+2 milliards € vs 2025) ; Bruxelles oblige \
+les compagnies à indemniser les annulations (250 à 600 € + hôtel + \
+remboursement).
 
-Alimentation. L'indice FAO des prix alimentaires augmente modérément \
-pour le 3e mois consécutif : avril +1,6 % vs mars, +2 % sur un an. \
-Huiles végétales : +5,9 % en un mois. Viande : nouveau record d'avril, \
-tirée par le bovin. Céréales contenues pour l'instant. Un tiers des \
-engrais mondiaux passe par Hormuz ; les usines indiennes, bangladaises \
-et pakistanaises ferment faute de gaz qatari. Transmission engrais → \
-blé → farine → pain : 4-6 mois ; le choc alimentaire frappe pleinement \
-à l'automne. La FAO maintient : au-delà de 3 mois de blocage, crise \
-alimentaire mondiale probable. On en est à ~10 semaines.
+Alimentation. Indice FAO des prix alimentaires avril 2026 : 130,7 \
+points, troisième hausse mensuelle consécutive (+1,6 % MoM, +2 % \
+YoY). Huiles végétales, viande et céréales en hausse ; sucre et \
+produits laitiers en baisse. La FAO révise la récolte mondiale de \
+blé 2026 à 817 Mt (-2 % sur un an) — les agriculteurs se reportent \
+sur des cultures moins gourmandes en engrais. Le Golfe persique \
+représente 30-35 % des exportations mondiales d'urée et 20-30 % \
+d'ammoniac ; les usines d'engrais en Inde, Bangladesh et Pakistan \
+ferment faute de gaz qatari. Transmission engrais → blé → farine → \
+pain : 4-6 mois ; le choc alimentaire frappe pleinement à l'automne. \
+La FAO maintient son avertissement : au-delà de 3 mois de blocage, \
+crise alimentaire mondiale probable. On en est à ~12 semaines.
 
 Chauffage — la fenêtre se referme. Pellets, bois, fioul : délais 6-8 \
 semaines d'avril à août, prix en hausse mensuelle. Qui commande après \
@@ -191,12 +189,13 @@ juillet n'a plus de marge avant l'hiver. Les ménages au gaz devraient \
 Allemagne / France. Selon Reuters et Wirtschaftswoche, les services \
 de sécurité allemands ont déjoué plus d'une douzaine de plans \
 d'attentats commandités par Téhéran depuis le début de la guerre. Les \
-Iraniens, eux, sont coupés du réseau internet mondial depuis 70 jours \
-consécutifs. Les exportations allemandes de mars surprennent à la \
-hausse (+0,5 % vs février).
+Iraniens, eux, sont coupés du réseau internet mondial depuis plus de \
+80 jours consécutifs. Les industries énergétivores (chimie, verre, \
+acier) souffrent de la pression sur les prix du carburant et de \
+l'électricité des deux côtés du Rhin.
 
-Inflation prévisionnelle : 5,5 % (arrêt immédiat des hostilités) à \
-12,5 % (crise prolongée). Ray Dalio parle d'une dynamique de « guerre \
+Inflation prévisionnelle : 5,5 % (mémorandum signé et tenu) à 12,5 % \
+(rupture et crise longue). Ray Dalio parle d'une dynamique de « guerre \
 mondiale » et d'une « guerre du capital » naissante — nouveau partage \
 des grandes puissances.
 

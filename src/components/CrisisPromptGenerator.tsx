@@ -39,7 +39,7 @@ export default function CrisisPromptGenerator() {
       {/* Header */}
       <div className="text-center mb-10">
         <span className="inline-block text-[0.65rem] font-semibold uppercase tracking-[0.14em] text-accent mb-4">
-          Mise à jour : 8 mai 2026 · Gratuit · sans inscription
+          Mise à jour : 19 mai 2026 · Gratuit · sans inscription
         </span>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4 leading-tight">
           Hormuz bloqué — qu'est-ce que ça change pour vous&nbsp;?
@@ -218,7 +218,7 @@ export default function CrisisPromptGenerator() {
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 mb-1">
             <span className="text-base font-semibold text-text-primary">État des lieux interactif</span>
-            <span className="text-xs text-accent font-semibold uppercase tracking-wide border border-accent/25 rounded px-1.5 py-0.5">08.05.</span>
+            <span className="text-xs text-accent font-semibold uppercase tracking-wide border border-accent/25 rounded px-1.5 py-0.5">19.05.</span>
           </div>
           <p className="text-sm text-text-secondary leading-snug">
             Calendrier, effets domino, fourchettes de prix — ce qui attend les ménages européens et quand.
