@@ -71,7 +71,7 @@ export const situationCategories: SituationCategory[] = [
 ];
 
 export const CONTEXTE_CRISE = `\
-Mise à jour : 10 juin 2026 — 101e jour de guerre. Depuis le \
+Mise à jour : 12 juillet 2026 — 133e jour de guerre. Depuis le \
 28 février, les États-Unis et Israël mènent une guerre ouverte contre \
 l'Iran et ses alliés (Hezbollah, Houthis, milices irakiennes PMF). La \
 campagne américano-israélienne « Operation Epic Fury » s'est \
@@ -84,46 +84,47 @@ jugé plus dur et plus répressif — lui a succédé. Téhéran a perdu \
 l'essentiel de son arsenal conventionnel et de sa défense aérienne, \
 mais conserve selon la CIA ~70 % de ses missiles balistiques.
 
-Cessez-le-feu depuis le 7-8 avril — mais au bord de la rupture. Les \
-7-8 juin, premier échange direct de missiles entre Israël et l'Iran \
-depuis le cessez-le-feu : déclencheur, des roquettes du Hezbollah sur \
-le nord d'Israël et le bombardement israélien de la banlieue sud de \
-Beyrouth ; Israël a frappé en retour des cibles en Iran, dont un \
-complexe pétrochimique. Les deux camps ont cessé le 8 juin après \
-l'intervention de Trump (« stop shooting ») ; selon le NYT, Netanyahou \
-a annulé des frappes plus larges après que Trump a affirmé qu'une \
-percée était « à quelques jours ». Les Houthis ont annoncé un blocus \
-naval des navires israéliens en mer Rouge. Le 3 juin, un drone iranien \
-a frappé l'aéroport international de Koweït (1 mort) — premier retour \
-aux infrastructures civiles du Golfe ; des missiles visant Bahreïn ont \
-été interceptés. Le 6 juin, frappes américaines sur les radars côtiers \
-de Qeshm et Goruk ; un hélicoptère Apache américain perdu. Le 10 juin, \
-les États-Unis ont mené de nouvelles frappes et Trump menace de \
-frapper l'Iran « very hard » sans accord — le pétrole a bondi de 3 $.
+Trêve à nouveau rompue. Le mémorandum américano-iranien signé en \
+juin après la médiation pakistanaise n'a pas tenu un mois. Le \
+7 juillet, l'Iran a frappé le méthanier qatari Al-Rekayyat près \
+d'Hormuz ; en représailles, les États-Unis ont retiré à l'Iran sa \
+licence pétrolière. Depuis le 7 juillet, plus aucun grand navire \
+(plus de 10 000 tpl) avec AIS allumé n'a emprunté la route omanaise \
+sécurisée par les États-Unis — le trafic est pratiquement à l'arrêt, \
+au moins 2 navires sont passés « dark » (AIS éteint). 70 % des \
+Américains veulent la fin de la guerre (Economist/YouGov). Bilan \
+total du conflit : plusieurs milliers de morts, millions de \
+déplacés ; l'Iran chiffre ses pertes à 270 milliards $.
 
-Négociations (médiation pakistanaise) dans l'impasse : le mémorandum \
-d'une page n'est toujours pas signé. L'Iran exige 24 milliards $ \
-d'avoirs gelés (12 milliards immédiatement) rien que pour revenir à \
-la table, et refuse de discuter de son programme nucléaire (440 kg \
-d'uranium hautement enrichi ; les États-Unis exigent un gel de \
-l'enrichissement de 20 ans, l'Iran propose 5). Washington rejette \
-catégoriquement tout péage iranien sur Hormuz. Trump le 23 mai : \
-accord « largement négocié » — le 5 juin : « ces choses prennent des \
-années » (comparaison avec le Vietnam). 70 % des Américains veulent la \
-fin de la guerre (Economist/YouGov). Bilan total du conflit : \
-plusieurs milliers de morts, millions de déplacés ; l'Iran chiffre \
-ses pertes à 270 milliards $.
+Deuxième front — Russie (nouveau). Du 6 au 11 juillet, l'Ukraine a \
+frappé ~50 navires de la « flotte fantôme » russe en mer d'Azov, \
+dont ~42 pétroliers — la plus grande campagne de ce type depuis le \
+début de la guerre. S'y ajoutent des frappes sur raffineries et \
+dépôts : Syzran (Samara), la raffinerie de Moscou (qui alimentait \
+40 % de la région moscovite), les dépôts de Tver et Stavropol, une \
+station de pompage au Bachkortostan, le terminal de chargement de \
+Rostov. ~25 % de la capacité de raffinage russe est à l'arrêt ou \
+réduite. Le 8 juillet, Moscou a interdit les exportations de diesel \
+jusqu'au 31 juillet et annonce ses propres importations de carburant \
+(vice-premier ministre Novak). Rationnement dans plus de 20 régions \
+russes : 20 litres par véhicule, remplissage de jerricans interdit, \
+files d'attente de plusieurs heures. La Russie représente ~11 % du \
+diesel mondial ; ses exportations maritimes de diesel ont chuté de \
+39 % en juin (~1,8 Mt) et ne sont plus que d'environ 187 000 b/j du \
+1er au 8 juillet, contre 535 000 b/j en juillet 2025 (Kpler). Le \
+détroit de Kertch et le canal Don-Azov sont fermés depuis le \
+10 juillet à 18h10 → ~25 % des exportations russes de blé touchées ; \
+le blé Euronext a bondi jusqu'à +4 %, au plus haut depuis six \
+semaines.
 
-Détroit d'Hormuz — largement fermé depuis ~14 semaines (normalement \
-20-25 % du commerce mondial de pétrole/GNL), mais plus perméable \
-qu'on ne le pensait : ~1 000 transits depuis le cessez-le-feu \
-(~17 navires/jour contre plus de 100 avant-guerre ; CENTCOM/\
-Bloomberg). Deux routes : un corridor à péage contrôlé par les \
-Gardiens de la révolution (qui attaquent les navires non autorisés) \
-et une route le long de la côte omanaise sécurisée par les \
-États-Unis — « surveillance navale discrète », transits « dark » (AIS \
-éteint) ; 142 navires autrefois bloqués sont sortis depuis mars \
-(Lloyd's List). OMC : trafic pétrolier −95 %, GNL −99 %. ADNOC \
+Détroit d'Hormuz — largement bloqué depuis le 28 février \
+(normalement ~25-27 % du pétrole maritime mondial, ~20 % du GNL). \
+Deux routes s'étaient établies : un corridor à péage contrôlé par \
+les Gardiens de la révolution (qui attaquent les navires non \
+autorisés) et une route le long de la côte omanaise sécurisée par \
+les États-Unis — mais depuis la frappe sur l'Al-Rekayyat le \
+7 juillet, celle-ci est pratiquement morte : plus aucun grand navire \
+avec AIS allumé n'est passé. ADNOC \
 (Émirats) : pas de flux complets avant le premier semestre 2027. \
 L'Iran consolide son contrôle (points de contrôle insulaires, système \
 d'autorisation à plusieurs niveaux) et entend le conserver après la \
@@ -154,30 +155,33 @@ FPV à fibre optique insensibles au brouillage. Plus de 3 millions de \
 Libanais dépendent de l'aide humanitaire — plus de la moitié de la \
 population.
 
-Pétrole. Brent ~91-95 $/baril le 10 juin, en baisse depuis ~102 $ \
-mi-mai ; pic de mars à 126 $ (Dubai 166 $). Avant la guerre : 70 $. \
-L'accalmie est trompeuse : la Chine maintient les prix bas en puisant \
-dans ses propres réserves (« les analystes attendaient 200 $ ») — \
-tenable encore quelques semaines selon Fortune ; les énergéticiens \
-avertissent d'une crise physique d'approvisionnement quand les stocks \
-seront épuisés. L'EIA prévoit ~105 $ en moyenne pour juin-juillet. \
-Les pays de l'AIE ont libéré 400 millions de barils (la plus grande \
-libération de l'histoire) ; la réserve stratégique américaine est à \
-son plus bas depuis Reagan. Le ministère américain de la Justice \
-enquête toujours sur 2,6 milliards $ de paris baissiers placés avant \
-des annonces de Trump — soupçon de délit d'initié.
+Pétrole. Brent ~72-76 $/baril du 10 au 12 juillet, loin du pic de \
+guerre à plus de 180 $ fin avril — le brut est pour l'instant \
+abondant et relativement bon marché. L'accalmie est trompeuse : TD \
+Securities anticipe +10 à 15 $ au cours de l'été à mesure que les \
+stocks se vident. Les pays de l'AIE ont libéré 400 millions de \
+barils (la plus grande libération de l'histoire) ; la réserve \
+stratégique américaine est à son plus bas depuis Reagan. Le \
+ministère américain de la Justice enquête toujours sur 2,6 \
+milliards $ de paris baissiers placés avant des annonces de Trump — \
+soupçon de délit d'initié.
 
-Diesel et carburants. La France importe normalement 30 à 40 % de son \
-diesel du Moyen-Orient. Les prix à la pompe baissent légèrement par \
-endroits (Brent −3 % depuis le 22 mai), mais la volatilité reste \
-forte — et les mesures de soutien expirent : la baisse temporaire des \
-taxes allemandes (13 avril, 2 mois) se termine mi-juin. Le \
+Diesel — le vrai cœur du choc. Ce n'est pas le pétrole qui manque, \
+c'est la capacité de raffinage. Le Moyen-Orient ET la Russie font \
+défaut en même temps — et tous deux alimentent le même pool de \
+diesel. La marge de raffinage européenne du diesel (crack spread) a \
+bondi à un record de 60,17 $/baril après l'interdiction russe \
+d'exporter ; le diesel monte par rapport au brut bien au-delà des \
+normes saisonnières. La France importe normalement 30 à 40 % de son \
+diesel du Moyen-Orient ; la Russie représentait ~11 % du diesel \
+mondial. Le diesel est le sang de la logistique : le surcoût se \
+répercute via le fret sur tous les prix en rayon — même pour les \
+ménages sans véhicule diesel. Les mesures de soutien expirent : la \
+baisse temporaire des taxes allemandes s'est terminée mi-juin. Le \
 rationnement slovène (depuis le 23 mars : 50 L/jour particuliers) \
-reste en vigueur ; en France, 18 % des stations étaient à sec au \
-12 avril.
+reste en vigueur.
 
-Gaz. Le TTF néerlandais est à ~50 €/MWh et est reparti à la hausse le \
-10 juin après les nouvelles frappes américaines. Les stocks européens \
+Gaz. Le TTF néerlandais est à ~50 €/MWh. Les stocks européens \
 — 31 milliards de m³ — sont au plus bas depuis 2018 (~28 % des \
 110 milliards de m³ de capacité) ; le GNL qatari manque pour une \
 durée indéterminée (Ras Laffan : 3-5 ans de réparation) ; l'UE \
@@ -206,16 +210,18 @@ céréales accélèrent : +2,6 % sur le mois, blé +3,4 % MoM / +7,8 % \
 YoY (blé d'hiver américain +28 % YoY, pires conditions de culture \
 depuis des décennies), sucre +7,5 %. La FAO prévoit une récolte \
 céréalière mondiale 2026/27 en baisse de 2 % (2 982 Mt) et avertit : \
-l'incertitude sur Hormuz continue de réduire l'usage d'engrais. Le \
+l'incertitude sur Hormuz continue de réduire l'usage d'engrais. Avec \
+la fermeture de Kertch depuis le 10 juillet, environ un quart des \
+exportations russes de blé est en outre bloqué. Le \
 Golfe persique représente 30-35 % des exportations mondiales d'urée \
 et 20-30 % d'ammoniac. Transmission engrais → blé → farine → pain : \
 4-6 mois ; le choc alimentaire frappe pleinement à l'automne, quelle \
 que soit l'évolution du conflit.
 
-Chauffage — la fenêtre se referme. Pellets, bois, fioul : délais 6-8 \
-semaines, prix en hausse mensuelle. Qui commande après juillet n'a \
-plus de marge avant l'hiver. Les ménages au gaz devraient évaluer \
-des alternatives maintenant, pas en octobre.
+Chauffage — la fenêtre se referme maintenant. Pellets, bois, fioul : \
+délais 6-8 semaines, prix en hausse mensuelle. Qui ne commande pas \
+maintenant n'a plus de marge avant l'hiver. Les ménages au gaz \
+devraient évaluer des alternatives maintenant, pas en octobre.
 
 Allemagne / France. Selon Reuters et Wirtschaftswoche, les services \
 de sécurité allemands ont déjoué plus d'une douzaine de plans \

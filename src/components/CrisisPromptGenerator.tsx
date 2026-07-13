@@ -6,8 +6,8 @@ import SituationSelector from './SituationSelector';
 const CONTEXT_ITEMS = [
   {
     label: 'Chauffage : commander est encore possible',
-    text: 'Pellets, bois, fioul : les délais de livraison entre avril et août sont de 6 à 8 semaines. Qui commande en juillet n\u2019a plus de marge. Les prix montent chaque mois.',
-    action: '→ Comparer les prix et passer commande avant fin mai',
+    text: 'Pellets, bois, fioul : les délais de livraison sont de 6 à 8 semaines. Qui attend août n\u2019a plus de marge avant l\u2019hiver. Les prix montent chaque mois.',
+    action: '→ Comparer les prix et passer commande maintenant',
   },
   {
     label: 'Le pétrole est partout — pas que dans le réservoir',
@@ -23,8 +23,8 @@ const CONTEXT_ITEMS = [
     text: 'Les stations d\u2019épuration utilisent du chlore et des floculants issus des mêmes chaînes logistiques. Pas de risque immédiat — mais pertinent si la crise dure au-delà de 3 mois.',
   },
   {
-    label: 'La fenêtre : d\u2019ici juin',
-    text: 'Entre maintenant et mi-juin, c\u2019est la dernière fenêtre pratique avant l\u2019automne. Après, commander, se faire livrer et stocker devient plus difficile — pas impossible, mais plus cher et plus lent.',
+    label: 'La fenêtre : c\u2019est maintenant',
+    text: 'Mi-juillet, c\u2019est la dernière fenêtre pratique avant l\u2019automne. Après, commander, se faire livrer et stocker devient plus difficile — pas impossible, mais plus cher et plus lent.',
     accent: true,
   },
 ];
@@ -39,7 +39,7 @@ export default function CrisisPromptGenerator() {
       {/* Header */}
       <div className="text-center mb-10">
         <span className="inline-block text-[0.65rem] font-semibold uppercase tracking-[0.14em] text-accent mb-4">
-          Mise à jour : 10 juin 2026 · Gratuit · sans inscription
+          Mise à jour : 12 juillet 2026 · Gratuit · sans inscription
         </span>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4 leading-tight">
           Hormuz bloqué — qu'est-ce que ça change pour vous&nbsp;?
