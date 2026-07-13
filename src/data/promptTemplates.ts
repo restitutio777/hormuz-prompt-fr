@@ -71,7 +71,7 @@ export const situationCategories: SituationCategory[] = [
 ];
 
 export const CONTEXTE_CRISE = `\
-Mise à jour : 12 juillet 2026 — 133e jour de guerre. Depuis le \
+Mise à jour : 13 juillet 2026 — 134e jour de guerre. Depuis le \
 28 février, les États-Unis et Israël mènent une guerre ouverte contre \
 l'Iran et ses alliés (Hezbollah, Houthis, milices irakiennes PMF). La \
 campagne américano-israélienne « Operation Epic Fury » s'est \
@@ -88,10 +88,20 @@ Trêve à nouveau rompue. Le mémorandum américano-iranien signé en \
 juin après la médiation pakistanaise n'a pas tenu un mois. Le \
 7 juillet, l'Iran a frappé le méthanier qatari Al-Rekayyat près \
 d'Hormuz ; en représailles, les États-Unis ont retiré à l'Iran sa \
-licence pétrolière. Depuis le 7 juillet, plus aucun grand navire \
-(plus de 10 000 tpl) avec AIS allumé n'a emprunté la route omanaise \
-sécurisée par les États-Unis — le trafic est pratiquement à l'arrêt, \
-au moins 2 navires sont passés « dark » (AIS éteint). 70 % des \
+licence pétrolière. Depuis, l'escalade est quotidienne : l'Iran a \
+attaqué à plusieurs reprises des navires marchands sur la route \
+omanaise sécurisée par les États-Unis et exige que tous les navires \
+empruntent sa route nord par ses eaux territoriales ; les États-Unis \
+ont riposté par plusieurs vagues de frappes, l'Iran a tiré sur des \
+alliés américains du Golfe. Le 12 juillet, seuls 14 navires ont \
+franchi le détroit — −60 % en une semaine, contre plus de 100 par \
+jour avant la guerre (Kpler) ; le corridor sud sécurisé par les \
+États-Unis s'est « effectivement effondré » selon Windward. Le \
+13 juillet, Trump a rétabli le blocus naval contre l'Iran et exige \
+20 % de la valeur des cargaisons comme « droit de protection » — le \
+vice-président Vance et le secrétaire d'État Rubio l'ont contredit \
+publiquement ; les observateurs redoutent un retour à la guerre \
+ouverte. 70 % des \
 Américains veulent la fin de la guerre (Economist/YouGov). Bilan \
 total du conflit : plusieurs milliers de morts, millions de \
 déplacés ; l'Iran chiffre ses pertes à 270 milliards $.
@@ -112,10 +122,14 @@ files d'attente de plusieurs heures. La Russie représente ~11 % du \
 diesel mondial ; ses exportations maritimes de diesel ont chuté de \
 39 % en juin (~1,8 Mt) et ne sont plus que d'environ 187 000 b/j du \
 1er au 8 juillet, contre 535 000 b/j en juillet 2025 (Kpler). Le \
-détroit de Kertch et le canal Don-Azov sont fermés depuis le \
-10 juillet à 18h10 → ~25 % des exportations russes de blé touchées ; \
-le blé Euronext a bondi jusqu'à +4 %, au plus haut depuis six \
-semaines.
+raffinage russe est tombé à 3,91 millions de b/j — son plus bas \
+niveau depuis 2005 (Bloomberg) ; la pénurie de carburant gagne déjà \
+l'Asie centrale. Le détroit de Kertch et le canal Don-Azov sont \
+fermés depuis le 10 juillet → ~25 % des exportations russes de blé \
+touchées ; les 12 et 13 juillet, les drones ukrainiens ont frappé \
+d'autres pétroliers et cargos en mer d'Azov, la Russie et l'Ukraine \
+ont attaqué mutuellement leurs ports céréaliers — les prix du blé \
+s'envolent (Euronext +4 % auparavant, plus haut de six semaines).
 
 Détroit d'Hormuz — largement bloqué depuis le 28 février \
 (normalement ~25-27 % du pétrole maritime mondial, ~20 % du GNL). \
@@ -123,8 +137,10 @@ Deux routes s'étaient établies : un corridor à péage contrôlé par \
 les Gardiens de la révolution (qui attaquent les navires non \
 autorisés) et une route le long de la côte omanaise sécurisée par \
 les États-Unis — mais depuis la frappe sur l'Al-Rekayyat le \
-7 juillet, celle-ci est pratiquement morte : plus aucun grand navire \
-avec AIS allumé n'est passé. ADNOC \
+7 juillet, ce corridor sud s'est effectivement effondré (Windward) ; \
+les navires se rabattent sur la route nord iranienne, et Trump a \
+annoncé le 13 juillet, outre le blocus rétabli, un droit de 20 % de \
+la valeur des cargaisons pour la protection américaine. ADNOC \
 (Émirats) : pas de flux complets avant le premier semestre 2027. \
 L'Iran consolide son contrôle (points de contrôle insulaires, système \
 d'autorisation à plusieurs niveaux) et entend le conserver après la \
@@ -155,11 +171,12 @@ FPV à fibre optique insensibles au brouillage. Plus de 3 millions de \
 Libanais dépendent de l'aide humanitaire — plus de la moitié de la \
 population.
 
-Pétrole. Brent ~72-76 $/baril du 10 au 12 juillet, loin du pic de \
-guerre à plus de 180 $ fin avril — le brut est pour l'instant \
-abondant et relativement bon marché. L'accalmie est trompeuse : TD \
-Securities anticipe +10 à 15 $ au cours de l'été à mesure que les \
-stocks se vident. Les pays de l'AIE ont libéré 400 millions de \
+Pétrole. Le Brent a bondi de ~10 % le 13 juillet après l'annonce du \
+blocus par Trump, à ~83 $/baril (WTI ~78 $, fioul domestique +8 %) — \
+il était encore à ~72-76 $ le week-end, loin du pic de guerre à plus \
+de 180 $ fin avril. Le brut reste disponible, mais la tendance \
+s'inverse : TD Securities anticipait déjà +10 à 15 $ au cours de \
+l'été à mesure que les stocks se vident. Les pays de l'AIE ont libéré 400 millions de \
 barils (la plus grande libération de l'histoire) ; la réserve \
 stratégique américaine est à son plus bas depuis Reagan. Le \
 ministère américain de la Justice enquête toujours sur 2,6 \

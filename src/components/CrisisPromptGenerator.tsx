@@ -39,7 +39,7 @@ export default function CrisisPromptGenerator() {
       {/* Header */}
       <div className="text-center mb-10">
         <span className="inline-block text-[0.65rem] font-semibold uppercase tracking-[0.14em] text-accent mb-4">
-          Mise à jour : 12 juillet 2026 · Gratuit · sans inscription
+          Mise à jour : 13 juillet 2026 · Gratuit · sans inscription
         </span>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4 leading-tight">
           Hormuz bloqué — qu'est-ce que ça change pour vous&nbsp;?
