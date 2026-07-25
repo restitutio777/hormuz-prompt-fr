@@ -71,7 +71,7 @@ export const situationCategories: SituationCategory[] = [
 ];
 
 export const CONTEXTE_CRISE = `\
-Mise à jour : 13 juillet 2026 — 134e jour de guerre. Depuis le \
+Mise à jour : 25 juillet 2026 — 148e jour de guerre. Depuis le \
 28 février, les États-Unis et Israël mènent une guerre ouverte contre \
 l'Iran et ses alliés (Hezbollah, Houthis, milices irakiennes PMF). La \
 campagne américano-israélienne « Operation Epic Fury » s'est \
@@ -84,27 +84,30 @@ jugé plus dur et plus répressif — lui a succédé. Téhéran a perdu \
 l'essentiel de son arsenal conventionnel et de sa défense aérienne, \
 mais conserve selon la CIA ~70 % de ses missiles balistiques.
 
-Trêve à nouveau rompue. Le mémorandum américano-iranien signé en \
-juin après la médiation pakistanaise n'a pas tenu un mois. Le \
-7 juillet, l'Iran a frappé le méthanier qatari Al-Rekayyat près \
-d'Hormuz ; en représailles, les États-Unis ont retiré à l'Iran sa \
-licence pétrolière. Depuis, l'escalade est quotidienne : l'Iran a \
-attaqué à plusieurs reprises des navires marchands sur la route \
-omanaise sécurisée par les États-Unis et exige que tous les navires \
-empruntent sa route nord par ses eaux territoriales ; les États-Unis \
-ont riposté par plusieurs vagues de frappes, l'Iran a tiré sur des \
-alliés américains du Golfe. Le 12 juillet, seuls 14 navires ont \
-franchi le détroit — −60 % en une semaine, contre plus de 100 par \
-jour avant la guerre (Kpler) ; le corridor sud sécurisé par les \
-États-Unis s'est « effectivement effondré » selon Windward. Le \
-13 juillet, Trump a rétabli le blocus naval contre l'Iran et exige \
-20 % de la valeur des cargaisons comme « droit de protection » — le \
-vice-président Vance et le secrétaire d'État Rubio l'ont contredit \
-publiquement ; les observateurs redoutent un retour à la guerre \
-ouverte. 70 % des \
-Américains veulent la fin de la guerre (Economist/YouGov). Bilan \
-total du conflit : plusieurs milliers de morts, millions de \
-déplacés ; l'Iran chiffre ses pertes à 270 milliards $.
+Trêve rompue, négociations dans l'impasse. Le mémorandum \
+américano-iranien signé le 17 juin n'a pas tenu un mois : les combats \
+ont repris les 8 et 9 juillet. Depuis, les États-Unis frappent sans \
+interruption — au 24 juillet, la 13e nuit consécutive (CENTCOM) \
+contre des centres de commandement, dépôts de drones, réseaux de \
+communication, sites de surveillance côtière et capacités maritimes ; \
+des explosions ont été signalées à Khorramabad, Jask, Ahvaz, Bandar \
+Abbas et sur l'île de Qeshm. Le 24 juillet, l'Iran a rejeté une \
+proposition américaine de cessez-le-feu transmise à Téhéran par le \
+premier ministre irakien al-Zaidi : Téhéran refuse tout arrangement \
+temporaire qui laisserait en suspens le contrôle du détroit d'Hormuz \
+et accuse Washington d'avoir rompu ses engagements. Bilan récent : \
+l'Iran annonce 59 morts et 666 blessés depuis le 27 juin ; le \
+Pentagone confirme au moins 4 militaires américains tués. Nouveauté \
+majeure — l'Iran frappe désormais les infrastructures civiles du \
+Golfe : la centrale électrique et l'usine de dessalement de Subiya, \
+au Koweït, a été touchée quatre nuits de suite (jusqu'au 21 juillet), \
+alors que ~90 % de l'eau potable koweïtienne provient du dessalement ; \
+le gouvernement appelle la population à économiser l'électricité par \
+plus de 50 °C. Bahreïn signale plusieurs vagues de missiles et de \
+drones (base aérienne Sheikh Isa), la Jordanie des attaques sur \
+Aqaba, et en Irak les postes-frontières de Shalamcheh et Abdali ont \
+été frappés. Bilan total du conflit : plusieurs milliers de morts, \
+millions de déplacés ; l'Iran chiffre ses pertes à 270 milliards $.
 
 Deuxième front — Russie (nouveau). Du 6 au 11 juillet, l'Ukraine a \
 frappé ~50 navires de la « flotte fantôme » russe en mer d'Azov, \
@@ -131,16 +134,29 @@ d'autres pétroliers et cargos en mer d'Azov, la Russie et l'Ukraine \
 ont attaqué mutuellement leurs ports céréaliers — les prix du blé \
 s'envolent (Euronext +4 % auparavant, plus haut de six semaines).
 
-Détroit d'Hormuz — largement bloqué depuis le 28 février \
+Deux détroits bloqués au lieu d'un — le fait nouveau décisif. \
+Détroit d'Hormuz : largement bloqué depuis le 28 février \
 (normalement ~25-27 % du pétrole maritime mondial, ~20 % du GNL). \
-Deux routes s'étaient établies : un corridor à péage contrôlé par \
-les Gardiens de la révolution (qui attaquent les navires non \
-autorisés) et une route le long de la côte omanaise sécurisée par \
-les États-Unis — mais depuis la frappe sur l'Al-Rekayyat le \
-7 juillet, ce corridor sud s'est effectivement effondré (Windward) ; \
-les navires se rabattent sur la route nord iranienne, et Trump a \
-annoncé le 13 juillet, outre le blocus rétabli, un droit de 20 % de \
-la valeur des cargaisons pour la protection américaine. ADNOC \
+L'ONU y constate désormais un quasi-arrêt du trafic, contre plus de \
+130 navires marchands par jour avant la guerre ; environ \
+6 000 marins sont bloqués à bord de centaines de navires, 136 navires \
+et 2 900 marins ont été évacués, et les évacuations sont suspendues \
+pour raisons de sécurité. Le secrétaire général de l'OMI, Arsenio \
+Domínguez, appelle à éviter tout transit tant que les conditions de \
+sûreté ne sont pas réunies. Nouveau depuis le 20 juillet : les \
+Houthis ont déclaré un blocus naval du détroit de BAB EL-MANDEB, en \
+mer Rouge, officiellement en représailles aux frappes saoudiennes sur \
+l'aéroport de Sanaa, avec effet immédiat. Y transitent normalement \
+~7,4 millions de barils par jour (~7 % de la production mondiale), \
+~12 % du commerce mondial et près d'un quart du trafic de conteneurs. \
+Point décisif : c'était précisément la voie de contournement \
+d'Hormuz — l'Arabie saoudite achemine son brut par l'oléoduc Est-Ouest \
+vers le port de Yanbu, dont les chargements atteignaient récemment \
+~4 millions de b/j (contre 973 000 b/j un an plus tôt). Les deux \
+goulets d'étranglement réunis concernent jusqu'à 25 % de l'offre \
+mondiale de pétrole et de gaz. Les navires se déroutent déjà par le \
+cap de Bonne-Espérance : 10 à 14 jours de délai supplémentaires sur \
+tout ce qui est conteneurisé. ADNOC \
 (Émirats) : pas de flux complets avant le premier semestre 2027. \
 L'Iran consolide son contrôle (points de contrôle insulaires, système \
 d'autorisation à plusieurs niveaux) et entend le conserver après la \
@@ -171,12 +187,12 @@ FPV à fibre optique insensibles au brouillage. Plus de 3 millions de \
 Libanais dépendent de l'aide humanitaire — plus de la moitié de la \
 population.
 
-Pétrole. Le Brent a bondi de ~10 % le 13 juillet après l'annonce du \
-blocus par Trump, à ~83 $/baril (WTI ~78 $, fioul domestique +8 %) — \
-il était encore à ~72-76 $ le week-end, loin du pic de guerre à plus \
-de 180 $ fin avril. Le brut reste disponible, mais la tendance \
-s'inverse : TD Securities anticipait déjà +10 à 15 $ au cours de \
-l'été à mesure que les stocks se vident. Les pays de l'AIE ont libéré 400 millions de \
+Pétrole. Le Brent a franchi les 100 $/baril le 23 juillet pour la \
+première fois, et se maintient juste en dessous depuis (~98 $), en \
+hausse de plus de 12 % sur la semaine — il était encore à ~83 $ le \
+13 juillet. Pour mémoire, le pic de guerre dépassait 180 $ fin avril. \
+Le brut reste disponible, mais les stocks se vident. \
+Les pays de l'AIE ont libéré 400 millions de \
 barils (la plus grande libération de l'histoire) ; la réserve \
 stratégique américaine est à son plus bas depuis Reagan. Le \
 ministère américain de la Justice enquête toujours sur 2,6 \
@@ -186,10 +202,20 @@ soupçon de délit d'initié.
 Diesel — le vrai cœur du choc. Ce n'est pas le pétrole qui manque, \
 c'est la capacité de raffinage. Le Moyen-Orient ET la Russie font \
 défaut en même temps — et tous deux alimentent le même pool de \
-diesel. La marge de raffinage européenne du diesel (crack spread) a \
-bondi à un record de 60,17 $/baril après l'interdiction russe \
-d'exporter ; le diesel monte par rapport au brut bien au-delà des \
-normes saisonnières. La France importe normalement 30 à 40 % de son \
+diesel. Le crack spread américain 3-2-1 est à un record de plus de \
+62 $/baril (semaine du 17 juillet) et la marge diesel à son plus haut \
+niveau depuis quatre ans. C'est le mécanisme le plus important pour \
+les ménages : même si le Brent stagne ou recule, le gazole et le \
+fioul peuvent continuer de monter, car ce qui manque n'est pas le \
+brut mais la capacité de raffinage et la logistique des produits. Le \
+titre sur le prix du baril est donc trompeur — à la pompe, c'est le \
+marché des produits qui compte. En France, le gazole est passé de \
+1,899 à 2,006 €/L entre le 1er et le 15 juillet (+10,7 centimes en \
+deux semaines) et poursuit sa hausse ; le fioul domestique atteint \
+1 656 € les 1 000 litres le 25 juillet, contre 1 488 € le 14 juillet \
+— soit environ +11 % en onze jours. Le contrat gasoil a gagné 40 % \
+depuis fin juin (1 205 $/tonne). La France importe normalement 30 à \
+40 % de son \
 diesel du Moyen-Orient ; la Russie représentait ~11 % du diesel \
 mondial. Le diesel est le sang de la logistique : le surcoût se \
 répercute via le fret sur tous les prix en rayon — même pour les \
@@ -198,22 +224,32 @@ baisse temporaire des taxes allemandes s'est terminée mi-juin. Le \
 rationnement slovène (depuis le 23 mars : 50 L/jour particuliers) \
 reste en vigueur.
 
-Gaz. Le TTF néerlandais est à ~50 €/MWh. Les stocks européens \
-— 31 milliards de m³ — sont au plus bas depuis 2018 (~28 % des \
-110 milliards de m³ de capacité) ; le GNL qatari manque pour une \
-durée indéterminée (Ras Laffan : 3-5 ans de réparation) ; l'UE \
-envisage d'abaisser l'objectif de remplissage de 90 % à 80 %. La \
-saison d'injection bat son plein — chaque perturbation compte. \
-L'IEEFA estime que les prix de gros de l'électricité pourraient \
-rester 60 % au-dessus du niveau d'avant-guerre (~+120 €/an par \
-ménage).
+Gaz et électricité — l'hiver est le vrai problème. Le TTF \
+néerlandais est à ~58 €/MWh (21 juillet), après un bref passage \
+au-dessus de 60 — environ trois quarts au-dessus de son niveau d'il y \
+a un an. Les stocks européens sont remplis à 54,2 %, soit une dizaine \
+de points de moins qu'à la même date l'an dernier, et l'injection \
+ralentit parce que le gaz est cher ; l'Allemagne n'est qu'à 44 % \
+à la mi-juillet, nettement sous son objectif légal d'hiver. Comme le \
+prix de l'électricité reste indexé sur le gaz par le mécanisme de \
+l'ordre de mérite (alors que le gaz ne produit que 18-20 % de \
+l'électricité de l'UE), les prix spot atteignent déjà 120-150 €/MWh \
+en Allemagne et en Italie. Le GNL qatari manque pour une \
+durée indéterminée (Ras Laffan : 3-5 ans de réparation). Bruxelles \
+demande aux États membres de se préparer à des perturbations \
+prolongées et envisage de réactiver les instruments de crise de 2022 \
+(objectifs d'économies, plafonds de prix) — rien n'est encore décidé. \
+Conséquence pratique : ce qu'un ménage paiera pour se chauffer \
+l'hiver 2026/27 se joue maintenant, mais ne sera visible que sur la \
+régularisation au printemps.
 
 Kérosène. Le commissaire européen aux Transports Tzitzikostas \
 assure qu'il n'y a PAS de pénurie imminente de kérosène en Europe — \
 mais les surcoûts dépassent 2 milliards $ pour les compagnies, et \
-routes comme tarifs restent sous pression. KLM suspend Riyad et \
-Dammam jusqu'au 26 juillet inclus ; surcharges carburant record \
-(ANA/JAL) ; le Royaume-Uni s'attend à une flambée estivale, les \
+routes comme tarifs restent sous pression. Les liaisons vers le Golfe \
+restent réduites, et le blocus de Bab el-Mandeb ajoute déroutements \
+et surprimes d'assurance ; surcharges carburant record \
+(ANA/JAL) ; flambée attendue, les \
 raffineries américaines redirigeant leur production vers le marché \
 intérieur. Le rationnement italien dans sept aéroports reste en \
 vigueur. IAG (maison-mère British Airways) prévoit 9 milliards € de \
@@ -221,24 +257,47 @@ coûts carburant en 2026 (+2 milliards € vs 2025) ; Bruxelles oblige \
 les compagnies à indemniser les annulations (250 à 600 € + hôtel + \
 remboursement).
 
-Alimentation. Indice FAO des prix alimentaires mai 2026 : 130,8 \
-points — globalement stable (−0,2 % MoM, +2,9 % YoY), mais les \
-céréales accélèrent : +2,6 % sur le mois, blé +3,4 % MoM / +7,8 % \
-YoY (blé d'hiver américain +28 % YoY, pires conditions de culture \
-depuis des décennies), sucre +7,5 %. La FAO prévoit une récolte \
+Alimentation. Le blé se négocie 19 % au-dessus de son niveau d'il y \
+a un an ; l'indice FAO des céréales a encore progressé de 1,5 % sur \
+un mois, le blé de 4,3 % (sécheresse aux États-Unis en plus). Les \
+prix alimentaires mondiaux ont atteint en avril leur plus haut niveau \
+depuis janvier 2024, sous l'effet de la fermeture d'Hormuz. La FAO \
+prévoit une récolte \
 céréalière mondiale 2026/27 en baisse de 2 % (2 982 Mt) et avertit : \
-l'incertitude sur Hormuz continue de réduire l'usage d'engrais. Avec \
-la fermeture de Kertch depuis le 10 juillet, environ un quart des \
-exportations russes de blé est en outre bloqué. Le \
+l'incertitude sur Hormuz continue de réduire l'usage d'engrais — \
+l'urée a bondi de 19 % en une seule semaine. Le \
 Golfe persique représente 30-35 % des exportations mondiales d'urée \
 et 20-30 % d'ammoniac. Transmission engrais → blé → farine → pain : \
 4-6 mois ; le choc alimentaire frappe pleinement à l'automne, quelle \
 que soit l'évolution du conflit.
 
 Chauffage — la fenêtre se referme maintenant. Pellets, bois, fioul : \
-délais 6-8 semaines, prix en hausse mensuelle. Qui ne commande pas \
-maintenant n'a plus de marge avant l'hiver. Les ménages au gaz \
-devraient évaluer des alternatives maintenant, pas en octobre.
+délais 6-8 semaines, prix en hausse hebdomadaire (fioul : \
+1 656 €/1 000 L le 25 juillet, +11 % en onze jours). Attendre une \
+baisse suppose que deux détroits bloqués rouvrent en même temps ; \
+plutôt que de parier sur le bon moment, mieux vaut acheter en \
+plusieurs fractions. Les ménages au gaz devraient évaluer des \
+alternatives maintenant, pas en octobre, et augmenter volontairement \
+leurs mensualités pour éviter une régularisation brutale au \
+printemps. \
+Délais de livraison (nouveau) : avec le déroutement des conteneurs \
+par le cap de Bonne-Espérance, tout ce qui est commandé arrive 10 à \
+14 jours plus tard — électronique, pièces détachées, lunettes, pneus, \
+précurseurs de médicaments. Ce qui sera nécessaire à l'automne se \
+commande maintenant. \
+Dimension humaine : le principal risque n'est pas l'ignorance mais la \
+paralysie — la plupart des gens connaissent la situation dans les \
+grandes lignes et n'agissent pas, parce que se distraire est plus \
+confortable qu'agir. Faire une seule chose concrète (plein, réserves, \
+traitement de fond, mensualité, parler aux voisins) vaut mieux que \
+tout savoir sans rien faire. La dépendance aux chaînes \
+d'approvisionnement est structurelle, pas un échec personnel : \
+personne ne s'en extrait seul dans une société de division du \
+travail. La réponse tenable est donc la préparation plus le lien \
+local — trois foyers qui se coordonnent sont mieux placés qu'un seul \
+qui stocke (qui a un poêle, un groupe électrogène, un véhicule ; qui \
+a besoin d'aide en cas de coupure : soins, oxygène, chaîne du froid \
+des médicaments).
 
 Allemagne / France. Selon Reuters et Wirtschaftswoche, les services \
 de sécurité allemands ont déjoué plus d'une douzaine de plans \
@@ -247,11 +306,12 @@ Les industries énergétivores (chimie, verre, acier) souffrent de la \
 pression sur les prix du carburant et de l'électricité des deux \
 côtés du Rhin.
 
-Inflation. Zone euro en mai : 3,2 % officiellement (3,0 % en avril) ; \
-États-Unis au-dessus de 4 % pour la première fois depuis 2023. La \
-part énergie/alimentation frappe les ménages bien plus durement que \
-le chiffre officiel ; en cas de rupture du cessez-le-feu et de crise \
-longue, les scénarios vont jusqu'à 12,5 %. Ray Dalio parle d'une \
+Inflation. Le chiffre officiel ne reflète pas la situation d'un \
+ménage donné — non par manipulation, mais parce qu'il mesure un \
+panier moyen. Là où le carburant, le chauffage et l'alimentation \
+dominent le budget, la charge réelle est un multiple : gazole \
++10,7 centimes en deux semaines, fioul +11 % en onze jours, blé +19 % \
+sur un an. En cas de crise longue, les scénarios vont jusqu'à 12,5 %. Ray Dalio parle d'une \
 dynamique de « guerre mondiale » et d'une « guerre du capital » \
 naissante.
 

@@ -6,8 +6,18 @@ import SituationSelector from './SituationSelector';
 const CONTEXT_ITEMS = [
   {
     label: 'Chauffage : commander est encore possible',
-    text: 'Pellets, bois, fioul : les délais de livraison sont de 6 à 8 semaines. Qui attend août n\u2019a plus de marge avant l\u2019hiver. Les prix montent chaque mois.',
-    action: '→ Comparer les prix et passer commande maintenant',
+    text: 'Pellets, bois, fioul : les délais de livraison sont de 6 à 8 semaines. Qui attend septembre n\u2019a plus de marge avant l\u2019hiver. Le fioul est à 1 656 € les 1 000 litres le 25 juillet, contre 1 488 € le 14 juillet — +11 % en onze jours. Attendre une baisse suppose que deux détroits bloqués rouvrent en même temps.',
+    action: '→ Acheter en plusieurs fractions plutôt que de parier sur le bon moment',
+  },
+  {
+    label: 'Deux détroits bloqués : les délais s\u2019allongent',
+    text: 'Depuis le 20 juillet, les Houthis bloquent aussi Bab el-Mandeb — la voie qui contournait Hormuz. Les porte-conteneurs se déroutent par le cap de Bonne-Espérance : 10 à 14 jours de plus sur tout ce qui est commandé (électronique, pièces détachées, lunettes, pneus, précurseurs de médicaments).',
+    action: '→ Ce qui sera nécessaire à l\u2019automne se commande maintenant',
+  },
+  {
+    label: 'L\u2019hiver se joue maintenant, la facture arrive au printemps',
+    text: 'Les stocks de gaz européens sont remplis à 54 %, l\u2019Allemagne à 44 % seulement — nettement sous l\u2019objectif d\u2019hiver. Le prix de l\u2019électricité reste indexé sur le gaz. Ce que vous paierez cet hiver se décide ces semaines-ci, mais n\u2019apparaîtra que sur la régularisation.',
+    action: '→ Augmenter volontairement ses mensualités de 20 à 30 %',
   },
   {
     label: 'Le pétrole est partout — pas que dans le réservoir',
@@ -24,7 +34,7 @@ const CONTEXT_ITEMS = [
   },
   {
     label: 'La fenêtre : c\u2019est maintenant',
-    text: 'Mi-juillet, c\u2019est la dernière fenêtre pratique avant l\u2019automne. Après, commander, se faire livrer et stocker devient plus difficile — pas impossible, mais plus cher et plus lent.',
+    text: 'Fin juillet, c\u2019est la dernière fenêtre pratique avant l\u2019automne. Après, commander, se faire livrer et stocker devient plus difficile — pas impossible, mais plus cher et plus lent. Le vrai risque n\u2019est pas de ne pas savoir, c\u2019est de ne rien faire : une seule action concrète cette semaine vaut mieux que tout comprendre sans agir.',
     accent: true,
   },
 ];
@@ -39,7 +49,7 @@ export default function CrisisPromptGenerator() {
       {/* Header */}
       <div className="text-center mb-10">
         <span className="inline-block text-[0.65rem] font-semibold uppercase tracking-[0.14em] text-accent mb-4">
-          Mise à jour : 13 juillet 2026 · Gratuit · sans inscription
+          Mise à jour : 25 juillet 2026 · Gratuit · sans inscription
         </span>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4 leading-tight">
           Hormuz bloqué — qu'est-ce que ça change pour vous&nbsp;?
