@@ -6,17 +6,17 @@ import SituationSelector from './SituationSelector';
 const CONTEXT_ITEMS = [
   {
     label: 'Chauffage : commander est encore possible',
-    text: 'Pellets, bois, fioul : les délais de livraison sont de 6 à 8 semaines. Qui attend septembre n\u2019a plus de marge avant l\u2019hiver. Le fioul est à 1 656 € les 1 000 litres le 25 juillet, contre 1 488 € le 14 juillet — +11 % en onze jours. Attendre une baisse suppose que deux détroits bloqués rouvrent en même temps.',
+    text: 'Pellets, bois, fioul : les délais de livraison sont de 6 à 8 semaines. Qui commande en octobre ne sera pas livré avant le cœur de l\u2019hiver. Le fioul domestique est à 1 753 € les 1 000 litres le 4 septembre, contre 1 653 € le 31 août — soit +6 % en quatre jours. En Allemagne, le fioul a pris 14 % en un mois. Attendre une baisse suppose que deux détroits bloqués rouvrent en même temps ET que la capacité de raffinage soit réparée.',
     action: '→ Acheter en plusieurs fractions plutôt que de parier sur le bon moment',
   },
   {
-    label: 'Deux détroits bloqués : les délais s\u2019allongent',
-    text: 'Depuis le 20 juillet, les Houthis bloquent aussi Bab el-Mandeb — la voie qui contournait Hormuz. Les porte-conteneurs se déroutent par le cap de Bonne-Espérance : 10 à 14 jours de plus sur tout ce qui est commandé (électronique, pièces détachées, lunettes, pneus, précurseurs de médicaments).',
+    label: 'Deux détroits bloqués, et plus de négociations',
+    text: 'Depuis le 20 juillet, les Houthis bloquent aussi Bab el-Mandeb — la voie qui contournait Hormuz. Et la piste diplomatique s\u2019est refermée : le 17 août, le délai pour un accord américano-iranien a expiré sans résultat ; le 1er septembre, les États-Unis ont frappé une centaine de cibles des Gardiens de la révolution autour du détroit. Les porte-conteneurs se déroutent par le cap de Bonne-Espérance : 10 à 14 jours de plus sur tout ce qui est commandé (électronique, pièces détachées, lunettes, pneus, précurseurs de médicaments).',
     action: '→ Ce qui sera nécessaire à l\u2019automne se commande maintenant',
   },
   {
     label: 'L\u2019hiver se joue maintenant, la facture arrive au printemps',
-    text: 'Les stocks de gaz européens sont remplis à 54 %, l\u2019Allemagne à 44 % seulement — nettement sous l\u2019objectif d\u2019hiver. Le prix de l\u2019électricité reste indexé sur le gaz. Ce que vous paierez cet hiver se décide ces semaines-ci, mais n\u2019apparaîtra que sur la régularisation.',
+    text: 'Les stocks de gaz européens sont remplis à 65,8 %, soit 22,2 points sous la norme quinquennale de 88 %. L\u2019objectif intermédiaire contraignant de 80 % au 1er septembre n\u2019a pas été atteint — et 80 % était déjà l\u2019objectif abaissé depuis 90 %. Le TTF a plus que doublé depuis janvier (+130 %) et le prix de l\u2019électricité reste indexé sur le gaz. Ce que vous paierez cet hiver se décide ces semaines-ci, mais n\u2019apparaîtra que sur la régularisation au printemps.',
     action: '→ Augmenter volontairement ses mensualités de 20 à 30 %',
   },
   {
@@ -34,7 +34,7 @@ const CONTEXT_ITEMS = [
   },
   {
     label: 'La fenêtre : c\u2019est maintenant',
-    text: 'Fin juillet, c\u2019est la dernière fenêtre pratique avant l\u2019automne. Après, commander, se faire livrer et stocker devient plus difficile — pas impossible, mais plus cher et plus lent. Le vrai risque n\u2019est pas de ne pas savoir, c\u2019est de ne rien faire : une seule action concrète cette semaine vaut mieux que tout comprendre sans agir.',
+    text: 'Début septembre, c\u2019est la dernière fenêtre pratique avant l\u2019hiver : il reste huit semaines. Après, commander, se faire livrer et stocker devient plus difficile — pas impossible, mais plus cher et plus lent. Le vrai risque n\u2019est pas de ne pas savoir, c\u2019est de ne rien faire : une seule action concrète cette semaine vaut mieux que tout comprendre sans agir.',
     accent: true,
   },
 ];
@@ -49,7 +49,7 @@ export default function CrisisPromptGenerator() {
       {/* Header */}
       <div className="text-center mb-10">
         <span className="inline-block text-[0.65rem] font-semibold uppercase tracking-[0.14em] text-accent mb-4">
-          Mise à jour : 14 août 2026 · Gratuit · sans inscription
+          Mise à jour : 4 septembre 2026 · Gratuit · sans inscription
         </span>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4 leading-tight">
           Hormuz bloqué — qu'est-ce que ça change pour vous&nbsp;?
@@ -228,7 +228,7 @@ export default function CrisisPromptGenerator() {
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 mb-1">
             <span className="text-base font-semibold text-text-primary">État des lieux interactif</span>
-            <span className="text-xs text-accent font-semibold uppercase tracking-wide border border-accent/25 rounded px-1.5 py-0.5">19.05.</span>
+            <span className="text-xs text-accent font-semibold uppercase tracking-wide border border-accent/25 rounded px-1.5 py-0.5">04.09.</span>
           </div>
           <p className="text-sm text-text-secondary leading-snug">
             Calendrier, effets domino, fourchettes de prix — ce qui attend les ménages européens et quand.
