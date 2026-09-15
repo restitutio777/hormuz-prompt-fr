@@ -71,7 +71,7 @@ export const situationCategories: SituationCategory[] = [
 ];
 
 export const CONTEXTE_CRISE = `\
-Mise à jour : 4 septembre 2026 — 189e jour de guerre. Depuis le \
+Mise à jour : 15 septembre 2026 — 200e jour de guerre. Depuis le \
 28 février, les États-Unis et Israël mènent une guerre ouverte contre \
 l'Iran et ses alliés (Hezbollah, Houthis, milices irakiennes PMF). La \
 campagne américano-israélienne « Operation Epic Fury » s'est \
@@ -84,24 +84,28 @@ jugé plus dur et plus répressif — lui a succédé. Téhéran a perdu \
 l'essentiel de son arsenal conventionnel et de sa défense aérienne, \
 mais conserve selon la CIA ~70 % de ses missiles balistiques.
 
-LES NÉGOCIATIONS ONT ÉCHOUÉ — le changement majeur depuis la dernière \
-mise à jour. Début août, un accord entre l'Iran et Oman sur une route \
-de transit dans le détroit d'Hormuz semblait imminent. Il n'en reste \
-rien. Le 17 août, le délai de 60 jours fixé pour un accord \
-américano-iranien a expiré sans résultat ; Trump a menacé de frapper \
-Oman s'il s'interposait, et la trêve a pris fin. Le 1er septembre, \
-les États-Unis ont frappé une centaine de cibles des Gardiens de la \
-révolution dans et autour du détroit — la plus vaste opération \
-américaine depuis le 29 juillet, visant pour la première fois deux \
-pétroliers d'État iraniens, ainsi que la défense aérienne, les \
-radars, les moyens maritimes, les capacités de mouillage de mines et \
-les communications. L'Iran a riposté par des missiles balistiques sur \
-des bases américaines à Bahreïn, en Jordanie, au Koweït et en Irak — \
-l'échange de feu le plus lourd depuis plus d'un mois. Le 2 septembre, \
-selon Téhéran, deux pétroliers ont heurté des mines dans le détroit : \
-le minage est de retour. Qui fondait sa préparation sur un accord \
-proche devrait abandonner cette hypothèse — non par pessimisme, mais \
-parce que le fondement a disparu. Les frappes contre la marine civile continuent : \
+UN COULOIR SUR LE PAPIER, RIEN DE PLUS. Après l'expiration du délai de \
+60 jours le 17 août et la plus lourde vague de frappes depuis le début \
+de la guerre (1er septembre : une centaine de cibles des Gardiens de la \
+révolution, dont pour la première fois deux pétroliers d'État iraniens ; \
+riposte iranienne par missiles balistiques sur des bases américaines à \
+Bahreïn, en Jordanie, au Koweït et en Irak ; 2 septembre : deux \
+pétroliers heurtent des mines), l'Iran et Oman ont tout de même annoncé \
+un accord le 26 août : un couloir TEMPORAIRE de 7 miles (11,3 km) de \
+large, dont l'entrée se situe dans les eaux territoriales iraniennes et \
+une partie de la sortie également ; les navires doivent obtenir une \
+autorisation iranienne et acceptent une surveillance iranienne. Mais \
+tout l'essentiel manque : coordonnées précises, date d'entrée en \
+vigueur, régime des redevances, pavillons exclus. Et l'Iran conditionne \
+la réouverture COMPLÈTE à l'exécution par Washington du mémorandum de \
+juin — levée de sanctions et déblocage des avoirs iraniens gelés. Les \
+États-Unis n'ont pas répondu formellement et soutiennent que la voie \
+d'eau est « entièrement ouverte », alors que le trafic continue de \
+baisser. Un seul chiffre résume ce qu'en pense le marché : la \
+probabilité d'une réouverture d'ici au 30 septembre est cotée à 1 %. \
+Bilan du blocus au 1er septembre : 84 navires marchands détournés, 3 \
+mis hors d'état, 2 arraisonnés ; depuis le début de la guerre, l'OMI \
+recense 75 incidents maritimes et 19 marins tués. Les frappes contre la marine civile continuent : \
 le 31 juillet, le méthanier Gaslog Shanghai a été mis hors d'état à \
 la sortie du détroit ; le 3 août, le vraquier Minoan Pioneer a été \
 touché en salle des machines. Parallèlement, l'Iran frappe les \
@@ -149,13 +153,30 @@ exportations de blé chutant de 53 % à 8,3 Mt.
 Trois goulets d'étranglement au lieu de deux. \
 Détroit d'Hormuz : bloqué depuis le 28 février \
 (normalement ~25-27 % du pétrole maritime mondial, ~20 % du GNL). \
-Le 30 août, 6 navires marchands ont franchi le détroit en 24 heures, \
-contre ~85 par jour avant la crise — soit 7 % du trafic d'avant-guerre. \
-389 navires attendent sur zone sans poste à quai et 29 pétroliers ont \
-coupé leur signal AIS en 24 heures. Au 4 septembre, c'est le 187e jour \
-de fermeture. Le vrai verrou est devenu financier autant que militaire : \
+Le 13 septembre, 8 navires marchands ont franchi le détroit en \
+24 heures, contre ~85 par jour avant la crise — soit 9 % du trafic \
+d'avant-guerre. 386 navires attendent sur zone sans poste à quai, contre \
+512 huit jours plus tôt. Au 15 septembre, c'est le 199e jour de \
+fermeture. Le vrai verrou est devenu financier autant que militaire : \
 l'assurance risque de guerre atteint ~40 fois son niveau d'avant-crise, \
-contre ~30 fois en août — elle continue donc de monter. Les \
+soit une surprime d'environ 3 900 %. MAIS LE FAIT MAJEUR DE CETTE MISE \
+À JOUR EST AILLEURS : LE CONTOURNEMENT D'HORMUZ EST TOMBÉ, LUI AUSSI. \
+Les 10 et 11 septembre, des drones ont frappé en deux points, près de \
+Riyad et de Médine, l'oléoduc saoudien Est-Ouest, et le royaume l'a mis \
+à l'arrêt. Longue de 1 200 km, cette conduite achemine 4 à 5 millions \
+de barils par jour des champs de l'est vers le port de Yanbu, sur la \
+mer Rouge ; elle avait été construite dans les années 1980 précisément \
+pour le cas où l'Iran fermerait Hormuz — c'est l'UNIQUE contournement \
+saoudien. Jusqu'à 5 % de l'offre mondiale de pétrole sont touchés ; la \
+réparation prendra 5 à 6 semaines selon Reuters, 3 à 5 selon l'AP. \
+Selon Riyad, les drones sont partis de la province de Maysan, dans le \
+sud-est de l'Irak, près de la frontière iranienne. Et le 11 septembre, \
+les Houthis ont pris TOUTE la côte yéménite de la mer Rouge et atteint \
+l'île de Périm (Mayyun), dans Bab el-Mandeb — c'est-à-dire la sortie de \
+cette même route de secours. La chaîne champs de l'est → oléoduc → \
+Yanbu → Bab el-Mandeb → Europe est donc coupée en DEUX endroits à la \
+fois, pendant qu'Hormuz reste fermé. C'est ce qui explique le saut du \
+Brent dans cette mise à jour. Les \
 navires marchands ne circulent plus qu'en convois sous escorte. Le \
 secrétaire général de l'OMI, Arsenio \
 Domínguez, appelle à éviter tout transit tant que les conditions de \
@@ -222,34 +243,40 @@ soupçon de délit d'initié.
 
 Diesel — le vrai cœur du choc, et il ne dépend plus du prix du baril. \
 Ce n'est pas le pétrole qui manque, c'est la capacité de raffinage. \
-Le 1er septembre, la marge de raffinage du diesel a atteint un RECORD \
-de 106 $/baril (contre plus de 98 $ à la mi-août et 62 $ fin \
-juillet) ; le crack ICE gasoil contre Brent, plus proche de la \
-réalité européenne, atteint lui aussi un record à 79 $/baril. La \
-raffinerie Aramco de Jizan en Arabie saoudite — 400 000 barils/jour, \
-dont ~30 % de gazole et fioul — est à l'arrêt depuis la frappe de \
-drones houthis ; un redémarrage était annoncé pour le 30 août, mais \
-le retour au plein régime n'est pas confirmé, et le record du \
-1er septembre suggère le contraire. Trois manques simultanés, dont \
-aucun ne se comble en quelques semaines : Jizan, la Russie qui \
-n'exporte pratiquement plus de diesel, et un raffinage mondial très \
-inférieur à celui de l'an dernier (AIE). C'EST LE MÉCANISME QUI A \
+Les marges de raffinage du diesel sont au RECORD aux États-Unis ET en \
+Europe en même temps : 106 $/baril aux États-Unis le 1er septembre \
+(contre plus de 98 $ à la mi-août et 62 $ fin juillet), et le crack ICE \
+gasoil contre Brent, plus proche de la réalité européenne, évolue lui \
+aussi en zone record, jusqu'à ~95 $ à son pic. La raffinerie Aramco de \
+Jizan — 400 000 barils/jour, dont ~30 % de gazole et fioul — n'a \
+toujours pas de retour au plein régime confirmé. Désormais QUATRE \
+manques simultanés, dont aucun ne se comble en quelques semaines : \
+l'oléoduc Est-Ouest à l'arrêt, Jizan, la Russie qui n'exporte \
+pratiquement plus de diesel, et un raffinage mondial très inférieur à \
+celui de l'an dernier (AIE). C'EST LE MÉCANISME QUI A \
 CHANGÉ : en août, le Brent baissait pendant que le gazole montait. \
-Désormais les deux montent ensemble — le Brent est à ~95 $ le \
-3 septembre, soit ~20 % au-dessus de la mi-août et 42 % au-dessus de \
-l'an dernier. Le marché du brut n'est donc plus le contrepoids qu'il \
-était en août. En France, le gazole atteint un RECORD à ~2,25 €/L au \
-4 septembre (2,209 €/L au 31 août) ; le fioul domestique est à \
-1 753 € les 1 000 litres le 4 septembre, contre 1 653 € le 31 août. \
-Les automobilistes français font plus de 100 km pour aller faire le \
-plein en Andorre (1,625 €/L après une subvention entrée en vigueur le \
-1er septembre) ou au Luxembourg (2,02 €/L). Pour comparaison au \
-31 août : Belgique 2,208 €/L, France 2,209 €/L, Allemagne 2,232 €/L, \
-Pays-Bas 2,326 €/L — les quatre pays tiennent dans 12 centimes. Ce \
-qui distingue la Belgique, c'est la vitesse : son prix maximum \
-officiel a bondi de 14,5 centimes d'un coup le 3/4 septembre, à \
-2,386 €/L, parce qu'il répercute le prix de gros en quelques jours \
-là où la pompe allemande met des semaines. La France importe normalement 30 à \
+Désormais les deux montent ensemble — le Brent est à ~109 $ le \
+15 septembre, un plus haut de quatre mois, encore ~15 % au-dessus du \
+début septembre, avec +2,7 % sur les seules 24 dernières heures. Le marché du brut n'est donc plus le contrepoids qu'il \
+était en août. En France, le gazole atteint un NOUVEAU RECORD à 2,333 €/L au \
+15 septembre ; le SP95-E10 est à 2,143 €/L. Le fioul domestique est à \
+~1 870 € les 1 000 litres le 14 septembre, soit +108 € en une seule \
+semaine et +62 % sur un an. Les automobilistes français font plus de \
+100 km pour aller faire le plein en Andorre ou au Luxembourg. Pour \
+comparaison : Belgique 2,254 €/L, Allemagne 2,32 €/L, France \
+2,333 €/L — les trois pays tiennent dans quelques centimes. NOUVEAU EN \
+ALLEMAGNE, ET CELA CONCERNE AUSSI LES PRIX EUROPÉENS : au déficit \
+mondial de produits raffinés s'ajoute un goulet INTÉRIEUR. Le Rhin est \
+tombé à ~22 cm à l'échelle de Kaub, sous le record de 25 cm d'octobre \
+2018 ; à Cologne, 60 cm contre 69 cm alors. Les péniches ne chargent \
+parfois qu'un quart de leur capacité ou s'arrêtent, et les taux de fret \
+Rotterdam-Karlsruhe sont passés d'environ 45 €/t en juin à 150-160 €/t. \
+La chambre de commerce de Rhénanie-Palatinat attend des effets sur les \
+prix des carburants au moins jusqu'en octobre. Conséquence pratique \
+pour un ménage : une partie de la hausse actuelle est MÉTÉOROLOGIQUE et \
+repartira avec le niveau de l'eau, tandis que la part liée à la guerre \
+restera — d'où l'intérêt d'acheter le fioul par fractions plutôt que de \
+remplir la cuve entière au sommet. La France importe normalement 30 à \
 40 % de son \
 diesel du Moyen-Orient ; la Russie représentait ~11 % du diesel \
 mondial. Le diesel est le sang de la logistique : le surcoût se \
@@ -259,19 +286,25 @@ baisse temporaire des taxes allemandes s'est terminée mi-juin. Le \
 rationnement slovène (depuis le 23 mars : 50 L/jour particuliers) \
 reste en vigueur.
 
-Gaz et électricité — l'hiver est le vrai problème, et il commence \
-dans huit semaines. Le TTF néerlandais est à ~71-74 €/MWh le \
-3 septembre, après une moyenne d'août à 62 €/MWh : depuis janvier, le \
-prix européen du gaz a PLUS QUE DOUBLÉ (+130 %). Les stocks européens \
-sont remplis à 65,8 % au 4 septembre, soit 22,2 points sous la norme \
-quinquennale de 88 % ; l'Allemagne est à 53,67 %. Le signal le plus \
-parlant est politique : l'UE avait déjà ABAISSÉ son objectif \
-contraignant de remplissage de 90 % à 80 % — et l'objectif \
-intermédiaire de 80 % au 1er septembre n'a MÊME PAS été atteint. À \
-l'inverse, une rassurance qu'il faut prendre au sérieux : le groupe de \
-coordination gaz de la Commission européenne a constaté le \
-3 septembre qu'il n'existe AUCUN risque immédiat pour la sécurité \
-d'approvisionnement, la situation différant nettement de 2021/22. Les \
+Gaz et électricité — l'hiver est le vrai problème, et il ne reste que \
+sept semaines avant le 1er novembre. Le TTF néerlandais est à \
+~84 €/MWh le 14 septembre, après plus de 81 €/MWh le 11 septembre : \
+c'est le PLUS HAUT NIVEAU DEPUIS DÉCEMBRE 2022. Un moteur essentiel : \
+environ 20 % des flux gaziers mondiaux passent normalement par Hormuz, \
+surtout depuis le Qatar. Les stocks européens sont remplis à 68,3 % au \
+15 septembre, soit 19,7 points sous la norme quinquennale de 88 %, un \
+déficit d'environ 216 700 GWh ; l'Allemagne est à 55,6 % contre ~74 % \
+un an plus tôt. L'UE avait déjà ABAISSÉ son objectif contraignant de \
+90 % à 80 %, et l'objectif intermédiaire du 1er septembre n'a même pas \
+été atteint. À l'inverse, une rassurance qu'il faut prendre au sérieux : \
+l'agence fédérale allemande des réseaux et l'association Zukunft Gas \
+estiment que la sécurité d'approvisionnement n'est PAS menacée malgré \
+des stocks bas. La nuance est nouvelle : l'initiative INES avertit qu'en \
+cas d'hiver RIGOUREUX, et si le remplissage reste lent, la situation \
+pourrait devenir critique ; pour un hiver normal ou doux, elle reste \
+sûre. C'est la formulation la plus honnête disponible, et elle ne doit \
+être raccourcie dans aucun des deux sens : le prix est le problème \
+certain, le volume un risque résiduel qui dépend de la météo. Les \
 deux sont vrais, et la distinction compte : le risque pour un ménage \
 n'est pas la conduite vide, c'est le prix. Entrer dans l'hiver 22 \
 points sous la norme oblige à racheter cher en hiver — facture visible \
@@ -302,9 +335,12 @@ coûts carburant en 2026 (+2 milliards € vs 2025) ; Bruxelles oblige \
 les compagnies à indemniser les annulations (250 à 600 € + hôtel + \
 remboursement).
 
-Alimentation — désormais TOUT monte. L'indice FAO des prix \
-alimentaires a atteint 133,3 points en août (publié le 4 septembre), \
-+1,9 % sur un mois par rapport au chiffre de juillet révisé à 130,8. \
+Alimentation — chiffres d'août, rien de nouveau avant début octobre. \
+L'indice FAO des prix alimentaires a atteint 133,3 points en août \
+(publié le 4 septembre), +1,9 % sur un mois par rapport au chiffre de \
+juillet révisé à 130,8. Les données de septembre ne paraîtront que \
+début octobre : le chiffre d'août est le plus récent disponible, ce \
+n'est pas celui du mois en cours. \
 Le fait nouveau est l'ampleur : pour la première fois depuis des \
 mois, TOUTES les catégories montent en même temps — céréales 116,3 \
 (+2,2 %), huiles végétales 196,9 (+0,6 %), sucre 106,4 (+11,9 %, la \
@@ -324,10 +360,13 @@ et 20-30 % d'ammoniac. Transmission engrais → blé → farine → pain : \
 4-6 mois ; le choc alimentaire frappe pleinement à l'automne, quelle \
 que soit l'évolution du conflit.
 
-Chauffage — c'est le point le plus urgent de cette mise à jour. \
-Pellets, bois, fioul : délais 6-8 semaines (fioul : 1 753 €/1 000 L \
-le 4 septembre, contre 1 653 € le 31 août ; en Allemagne, +14 % en un \
-mois). Attendre une baisse ne suppose plus seulement \
+Chauffage — c'est le point le plus urgent de cette mise à jour, avec \
+une réserve importante. Pellets, bois, fioul : délais 6-8 semaines \
+(fioul : ~1 870 €/1 000 L le 14 septembre, +108 € en une semaine et \
++62 % sur un an ; en Allemagne, +24,5 % en un mois). Qui n'a encore \
+rien commandé devrait prendre une première fraction maintenant — mais \
+PAS la cuve entière d'un coup, car une partie de la hausse actuelle \
+tient à l'étiage du Rhin et repartira avec le niveau de l'eau. Attendre une baisse ne suppose plus seulement \
 une trêve : il faudrait de la capacité de raffinage réparée. Tant que \
 Jizan est à l'arrêt et que la Russie n'exporte pas, le fioul suit le \
 marché des produits, pas le cours du brut. Plutôt que de parier sur \
@@ -413,26 +452,30 @@ Raisonne en cascades :
   2. Effets secondaires : que se passe-t-il dans mon secteur, chez mes \
 clients, dans ma chaîne d'approvisionnement ou chez mon employeur ?
   3. COURT TERME (d'ici fin octobre) : ce qui est déjà acquis, c'est \
-le déficit de produits raffinés — Jizan sans plein régime confirmé, la \
-Russie qui n'exporte plus, un raffinage mondial très inférieur à l'an \
-dernier. Aucun de ces trois manques ne se comble en quelques semaines. \
-À noter : le prix de gros a déjà monté, la pompe ne l'a pas encore \
-entièrement répercuté — c'est une fenêtre, pas un état durable. \
+le déficit de produits raffinés — l'oléoduc Est-Ouest à l'arrêt pour 3 \
+à 6 semaines, Jizan sans plein régime confirmé, la Russie qui n'exporte \
+plus, un raffinage mondial très inférieur à l'an dernier. Aucun de ces \
+quatre manques ne se comble en quelques semaines. À noter pour le \
+fioul : deux surprimes se superposent et ne durent pas aussi longtemps \
+— celle de la guerre reste, celle du Rhin repartira avec l'eau. D'où \
+l'achat par fractions plutôt qu'en une fois. \
 Carburant, fioul, mensualités d'énergie, commandes à long \
 acheminement (10-14 jours de plus par le cap), traitements de fond.
-  4. MOYEN TERME (novembre à mars) : l'hiver. Stocks de gaz 22 points \
-sous la norme quinquennale, objectif intermédiaire de 80 % au \
-1er septembre manqué alors qu'il avait déjà été abaissé depuis 90 %, \
-prix de l'électricité indexé sur le gaz, régularisation brutale au \
-printemps 2027. Ajoute le choc alimentaire de la mer Noire, qui touche \
+  4. MOYEN TERME (novembre à mars) : l'hiver. Stocks de gaz ~20 points sous \
+la norme quinquennale, Allemagne à 55,6 % contre 74 % un an plus tôt, \
+avertissement de l'INES pour un hiver rigoureux, prix de l'électricité \
+indexé sur le gaz, régularisation brutale au printemps 2027. Ajoute le choc alimentaire de la mer Noire, qui touche \
 la saison EN COURS, pas seulement la suivante.
   5. LONG TERME (2027 et au-delà) : la récolte 2027 est déjà \
 handicapée par les engrais non achetés cet été. Et même une \
 réouverture d'Hormuz ne remet pas les compteurs à zéro : primes \
 d'assurance (~40 fois le niveau d'avant-crise), réparations de \
-raffineries, flottes déroutées et stocks vides se normalisent sur des \
-trimestres, pas sur des jours — et la voie diplomatique, encore \
-ouverte en août, s'est refermée le 17 août. Les \
+raffineries, oléoduc Est-Ouest hors service et stocks vides se \
+normalisent sur des trimestres, pas sur des jours — et le marché cote \
+à 1 % la probabilité d'une réouverture d'ici fin septembre. À noter \
+aussi : l'étiage record du Rhin n'est pas un accident isolé — 2018, \
+2022, et maintenant 2026. Mieux vaut remplir la cuve plus tôt dans \
+l'année. Les \
 décisions structurelles (chauffage, isolation, véhicule, habitude de \
 stock) se calculent avec les prix d'aujourd'hui, pas ceux de 2024.
 
