@@ -5,36 +5,38 @@ import SituationSelector from './SituationSelector';
 
 const CONTEXT_ITEMS = [
   {
-    label: 'Chauffage : commander est encore possible',
-    text: 'Pellets, bois, fioul : les délais de livraison sont de 6 à 8 semaines. Qui commande en octobre ne sera pas livré avant le cœur de l\u2019hiver. Le fioul domestique est à ~1 870 € les 1 000 litres le 14 septembre, soit +108 € en une seule semaine et +62 % sur un an. En Allemagne, le fioul a pris 24,5 % en un mois. Commander une première fraction maintenant a du sens — mais pas la cuve entière d\u2019un coup : une partie du prix allemand vient de l\u2019étiage record du Rhin et repartira avec le niveau de l\u2019eau, alors que la part liée à la guerre, elle, reste.',
-    action: '→ Acheter en plusieurs fractions plutôt que de parier sur le bon moment',
+    label: 'Fioul : la fraction suivante maintenant, pas toute la cuve',
+    text: 'Le fioul domestique coûte environ 1 900 € les 1 000 litres fin octobre. En Allemagne, il a presque doublé en un an. Le Rhin, tombé le 1er octobre à −6 cm à Kaub (record historique), est de nouveau navigable depuis le 26 octobre : la surprime logistique recule, celle de la guerre reste. D\u2019où : commander la fraction suivante dans les semaines qui viennent, sans remplir toute la cuve d\u2019un coup. Qui n\u2019a rien en cuve commande maintenant au moins jusqu\u2019au printemps.',
+    action: '→ Commander la fraction suivante dans les prochaines semaines',
   },
   {
-    label: 'Les deux contournements d\u2019Hormuz sont tombés',
-    text: 'Les DEUX contournements d\u2019Hormuz sont tombés en même temps. Le 10/11 septembre, des drones ont frappé l\u2019oléoduc saoudien Est-Ouest — 4 à 5 millions de barils/jour vers la mer Rouge, l\u2019unique route qui évite Hormuz — et Riyad l\u2019a mis à l\u2019arrêt pour 3 à 6 semaines. Le 11 septembre, les Houthis ont pris toute la côte yéménite de la mer Rouge, soit la sortie de cette même route. Les porte-conteneurs se déroutent par le cap de Bonne-Espérance : 10 à 14 jours de plus sur tout ce qui est commandé (électronique, pièces détachées, lunettes, pneus, précurseurs de médicaments).',
-    action: '→ Ce qui sera nécessaire à l\u2019automne se commande maintenant',
+    label: 'Les gouvernements conseillent désormais eux-mêmes de faire des réserves',
+    text: 'Le Royaume-Uni a lancé le 22 octobre la campagne « Be Ready » : tenir 72 heures sans électricité, eau ni réseau — eau, nourriture sans cuisson, radio, lampe, médicaments, batterie externe, liquide. La Normandie a appelé le 27 octobre à préparer un kit pour trois jours. Newsweek recense 33 États, dont 17 en Europe. Pendant des années, c\u2019était une lubie ; aujourd\u2019hui, c\u2019est une recommandation officielle, sans menace précise. Ces conseils sont raisonnables, et ils arrivent tard. Qui a déjà des réserves n\u2019a rien à rattraper ; qui n\u2019a rien commence par 72 heures. Pas besoin d\u2019achats de panique.',
+    action: '→ Cette semaine : 72 heures. Ensuite, élargir tranquillement',
   },
   {
-    label: 'L\u2019hiver se joue maintenant, la facture arrive au printemps',
-    text: 'Les stocks de gaz européens sont remplis à 68,3 % au 15 septembre, soit 19,7 points sous la norme quinquennale de 88 % ; l\u2019Allemagne est à 55,6 % contre ~74 % un an plus tôt. Le TTF est à ~84 €/MWh, son plus haut niveau depuis décembre 2022. Les autorités allemandes jugent la sécurité d\u2019approvisionnement non menacée, mais l\u2019initiative INES prévient qu\u2019un hiver RIGOUREUX pourrait rendre la situation critique. Ce que vous paierez cet hiver se décide ces semaines-ci, mais n\u2019apparaîtra que sur la régularisation au printemps.',
+    label: 'Gazole : premières pompes vides, en France d\u2019abord',
+    text: 'Le gazole coûte 2,352 €/L (semaine du 26 octobre), plus cher que l\u2019essence. Le 27 octobre, 9,3 % des stations françaises manquaient de gazole — le double en cinq jours — et 20 % des stations du Grand Est étaient à sec le 28 octobre. Bruxelles ne voit « pas de pénurie physique » ; onze pays de l\u2019UE, dont la France, libèrent 20,5 millions de barils de gazole de leurs réserves stratégiques jusqu\u2019à fin janvier. Le manque frappe d\u2019abord la distribution, station par station. Et le pétrole est partout : plastiques, produits d\u2019entretien, textiles, emballages.',
+    action: '→ Ne pas rouler sous le demi-réservoir',
+  },
+  {
+    label: 'L\u2019hiver commence avec des stocks de gaz au plus bas',
+    text: 'Les stocks de gaz de l\u2019UE sont à 74,6 % (21 octobre), contre 89,4 % en moyenne quinquennale — le plus bas pour cette date depuis 2011 ; l\u2019Allemagne est autour de 61 %. Le TTF dépasse 100 €/MWh depuis le 28 octobre, +36 % en un mois. Les analystes le disent ouvertement : l\u2019Europe a besoin d\u2019un hiver doux. Une rupture n\u2019est pas le scénario probable, un hiver cher est certain. La facture arrive avec la régularisation du printemps 2027.',
     action: '→ Augmenter volontairement ses mensualités de 20 à 30 %',
   },
   {
-    label: 'Le pétrole est partout — pas que dans le réservoir',
-    text: 'Plastiques, produits d\u2019entretien, textiles synthétiques, matériaux de construction, emballages alimentaires — tout cela dépend du pétrole. Rouler en électrique ne met pas à l\u2019abri.',
+    label: 'Hormuz : ce que disent les gouvernements et ce que mesurent les données',
+    text: 'L\u2019armée américaine déclare les routes principales déminées. L\u2019agence britannique UKMTO compte environ 70 % de passages en moins qu\u2019avant la guerre dans la semaine au 28 octobre, et octobre a été le pire mois du conflit avec au moins 35 attaques contre des navires. Le brut passe en partie sous escorte ; gazole, GNL, engrais et conteneurs presque pas. Le Brent est autour de 113 à 118 $, contre ~72 $ avant la guerre. Les négociations butent sur l\u2019ordre des concessions ; après les élections américaines du 3 novembre, de nouvelles frappes sont possibles. Les conteneurs contournent par le cap : 10 à 14 jours de plus.',
+    action: '→ Ce dont on aura besoin cet hiver se commande maintenant',
   },
   {
     label: 'Réserve de liquidités',
-    text: 'En cas de stress bancaire, des plafonds de retrait peuvent être imposés du jour au lendemain. Ce n\u2019est pas de la théorie — c\u2019est arrivé en Grèce en 2015. Avoir une semaine de dépenses courantes en liquide chez soi n\u2019est pas de l\u2019alarmisme.',
+    text: 'En cas de coupure de courant, carte et distributeurs tombent localement ; en cas de stress bancaire, des plafonds de retrait peuvent être imposés du jour au lendemain (Grèce 2015). Le Royaume-Uni cite désormais l\u2019argent liquide dans sa liste officielle. Avoir une semaine de dépenses courantes en liquide chez soi n\u2019est pas de l\u2019alarmisme.',
     action: '→ Retirer progressivement, pas d\u2019un coup',
   },
   {
-    label: 'L\u2019eau du robinet dépend aussi de l\u2019import',
-    text: 'Les stations d\u2019épuration utilisent du chlore et des floculants issus des mêmes chaînes logistiques. Pas de risque immédiat — mais pertinent si la crise dure au-delà de 3 mois.',
-  },
-  {
-    label: 'La fenêtre : c\u2019est maintenant',
-    text: 'Mi-septembre, c\u2019est la dernière fenêtre pratique avant l\u2019hiver : il reste sept semaines avant le 1er novembre. Après, commander, se faire livrer et stocker devient plus difficile — pas impossible, mais plus cher et plus lent. Le vrai risque n\u2019est pas de ne pas savoir, c\u2019est de ne rien faire : une seule action concrète cette semaine vaut mieux que tout comprendre sans agir.',
+    label: 'Court, moyen et long terme',
+    text: 'Court terme (d\u2019ici fin novembre) : nouvelles frappes possibles après le 3 novembre, gazole tendu dans la distribution, fraction de fioul tant que le Rhin est navigable, réserve de base de 72 heures. Moyen terme (décembre à mars) : un hiver avec des stocks de gaz au plus bas, régularisation au printemps 2027. Long terme : les trains de GNL qataris endommagés demandent trois à cinq ans, la récolte 2027 portera le coût du phosphate, et l\u2019étiage du Rhin revient (2018, 2022, 2026). Les bonnes nouvelles comptent aussi : l\u2019oléoduc saoudien Est-Ouest fonctionne de nouveau, un effondrement n\u2019est pas le scénario. Le vrai risque reste la paralysie : une seule action concrète cette semaine vaut mieux que tout comprendre sans agir.',
     accent: true,
   },
 ];
@@ -49,7 +51,7 @@ export default function CrisisPromptGenerator() {
       {/* Header */}
       <div className="text-center mb-10">
         <span className="inline-block text-[0.65rem] font-semibold uppercase tracking-[0.14em] text-accent mb-4">
-          Mise à jour : 15 septembre 2026 · Gratuit · sans inscription
+          Mise à jour : 31 octobre 2026 · Gratuit · sans inscription
         </span>
         <h1 className="font-serif text-3xl sm:text-4xl font-bold text-text-primary mb-4 leading-tight">
           Hormuz bloqué — qu'est-ce que ça change pour vous&nbsp;?
@@ -228,7 +230,7 @@ export default function CrisisPromptGenerator() {
         <div className="flex-1 min-w-0">
           <div className="flex items-center gap-2 mb-1">
             <span className="text-base font-semibold text-text-primary">État des lieux interactif</span>
-            <span className="text-xs text-accent font-semibold uppercase tracking-wide border border-accent/25 rounded px-1.5 py-0.5">15.09.</span>
+            <span className="text-xs text-accent font-semibold uppercase tracking-wide border border-accent/25 rounded px-1.5 py-0.5">31.10.</span>
           </div>
           <p className="text-sm text-text-secondary leading-snug">
             Calendrier, effets domino, fourchettes de prix — ce qui attend les ménages européens et quand.
